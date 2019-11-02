@@ -63,7 +63,7 @@ Q13: When do you interact most with content you're trying to learn?
 
 Q14: When fidgeting, what do you do?
   3: Whistle and hum
-  4: Move your hands and manipulate utensils
+  4: Twiddle your thumbs
   
 Q15: Which technique helps to better visualize content?
   3: Mnemonic devices
