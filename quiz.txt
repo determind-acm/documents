@@ -11,7 +11,7 @@
 
 Q1: Which study method helps you to better understand the content?
   1: Reviewing lecture notes
-  2: Observing data in a natural setting
+  2: Observing real-life examples
 
 Q2: Which technique helps you memorize information?
   1: Re-reading or re-writing notes
