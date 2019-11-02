@@ -45,7 +45,7 @@ Q9: Which experiments are most beneficial to your understanding?
   2: Observing and recording data
   4: Directly interacting with data
   
-Q10: How would your notes be organized?
+Q10: How are your notes organized?
   2: By pattern, with recorded data 
   5: By structure, with indentation
   
