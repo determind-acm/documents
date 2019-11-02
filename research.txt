@@ -4,7 +4,7 @@ Format
   Example
   Implementation
   
- Linguistic/Verbal/Read-Write
+1-- Linguistic/Verbal/Read-Write
   Learns best through linguistic skills like reading, writing, listening, or speaking.
   Process information through the use of language -- excellent memory for reading or lectures
   You understand a book best after writing a research paper on it
@@ -13,7 +13,7 @@ Format
     Create a list of keywords to remember
     User acronyms
  
- Naturalist/Naturalistic
+2-- Naturalist/Naturalistic
   Learns best through working with and experiencing nature or natural situations
   Many scientists learn this way because experimentation is at the heart of of learning -- relating ideas to concepts in nature and enjoy rural settings to study and think
   You understand the mathematics behind chemistry after performing an experiment in a lab
@@ -23,7 +23,7 @@ Format
     Observe and record data as if it was a natural environment
     Include experiments and learnings
  
- Musical/Rhythmic/Auditory/Aural
+3-- Musical/Rhythmic/Auditory/Aural
   Learns best using melody and rhythm
   Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping -- think chronologically -- strong language skills -- difficulaty deciphering graphs and interpersonal cues
   Drummers could hear a beat on the street and put it together in the studio
@@ -33,7 +33,7 @@ Format
     Use mnemonic devices
     Use background noise to your advantage -- study anywhere
  
- Kinesthetic/Physical/Bodily/Tactile
+4-- Kinesthetic/Physical/Bodily/Tactile
   Learnes best by taking action
   Similar to Naturalist Learners, interacting with objects helps to learn about them in the best possible way -- arts, manufacturing, or creative fields that require hands on experience -- bodies involved in learning process -- manipulate what is being learned
   Woodworking must be learned by interactin directly with the wood and the project
@@ -42,7 +42,7 @@ Format
     Review notes while doing other physical activities
     Make graphs or art pieces to demosntrate information
  
- Visual/Spatial
+5-- Visual/Spatial
   Learns best with visual aids to guide the learning process
   You understand best by looking at diagrams, pictures, and graphs -- tend to enter technical or engineering fields -- right-brained learner -- struggle with arithmatic and numbers
   Learning programming by interacting with a UML diagram
@@ -52,7 +52,7 @@ Format
     Highlight notes with different colors
     Create indented outline notes
  
- Logical/Mathematical
+6-- Logical/Mathematical
   Learn best by clasifying and categorizing things
   Understand relationships or patters, or numbers and equations best -- engineers, scientists, mathematicians -- decipher abstract visual information -- strategy focused
   Learn sciences like biology easily because it includes in-depth classifications
@@ -61,7 +61,7 @@ Format
     Play math and strategy games for mind stimulation
     Create specific goals and plan timelines for projects
  
- Interpersonal/Social
+7-- Interpersonal/Social
   Learns best by relating to others
   Share stores, work best in teams, and compare ideas with the ideas of others -- good at reading the emotions of others and identifying communication problems
   You understand reading assignments through discussions
@@ -71,7 +71,7 @@ Format
     Join a volunteer group
     Interview others for their perspectives
  
- Intrapersonal/Solitary
+8-- Intrapersonal/Solitary
   Learns bes when working alone
   Set individual goals and are internally motivated -- tend introverts -- fields without direction supervision -- stay in-tune with themselves and their capabilities -- enjoy teaching themselves
   When studying for a test, it must be quiet
