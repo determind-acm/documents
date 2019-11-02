@@ -1,33 +1,26 @@
 Format
+  Key
   Title
   Alternate Names
   Description
   Traits to look for
   
+linguistic
 Linguistic Learner
 Verbal, Read-Write
-Linguistic learners understand content best through linguistic skills like reading, writing, listening, and speaking.
-  Learns best through linguistic skills like reading, writing, listening, or speaking.
-  Process information through the use of language -- excellent memory for reading or lectures
-  You understand a book best after writing a research paper on it
-  Read about information, listen to an audio recording, and then take notes on it. Then it would be best to speak it to someone else to ensure understanding, or write about it extensively
-    Reread and rewrite notes (make summaries)
-    Create a list of keywords to remember
-    User acronyms
- 
+Linguistic learners understand content best through linguistic skills like reading, writing, listening, and speaking. As a result, this type of learner processes information through the use of language, giving them an excellent memory when it comes to readings and lectures. The process of this learner involves reading information, listening to lectures or audio recordings, and taking further notes on the subject. It may be best to talk about the subject with someone else to ensure a deep understanding of it.
+Large focus on notes; Re-reading and re-writing information; Summarizing content (spoken or written); Listing keywords to remember; Use of acronyms;
+
+naturalistic
 Naturalistic Learner
 Naturalist
-  Learns best through working with and experiencing nature or natural situations
-  Many scientists learn this way because experimentation is at the heart of of learning -- relating ideas to concepts in nature and enjoy rural settings to study and think
-  You understand the mathematics behind chemistry after performing an experiment in a lab
-  Tips:
-    Recognize patterns in learned content
-    Learn topics related to daily life and nature to stimulate interest
-    Observe and record data as if it was a natural environment
-    Include experiments and learnings
+Naturalistic learners understand content best by working in or with nature, or experiencing natural situations in the world around them. Many scientists learn this way because observations are at the heart of learning, whether that be relating ideas to concepts in nature, or enjoying rural settings to study and think. There is a large focus on pattern recognition and observation in order to understand content in a way that interests this kind of learner.
+Organizing notes on patterns; Simulating real-life situations; Observing and recording data without direct interaction;
  
+musical
 Musical Learner
 Rhythmic, Auditory, Aural
+Musical learners understand content best through the inclusion of melodies and rhythms to focus.
   Learns best using melody and rhythm
   Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping -- think chronologically -- strong language skills -- difficulaty deciphering graphs and interpersonal cues
   Drummers could hear a beat on the street and put it together in the studio
@@ -37,6 +30,7 @@ Rhythmic, Auditory, Aural
     Use mnemonic devices
     Use background noise to your advantage -- study anywhere
  
+physical
 Physical Learner
 Kinesthetic, Bodily, Tactile
   Learnes best by taking action
@@ -47,6 +41,7 @@ Kinesthetic, Bodily, Tactile
     Review notes while doing other physical activities
     Make graphs or art pieces to demosntrate information
  
+visual
 Visual Learner
 Spatial
   Learns best with visual aids to guide the learning process
@@ -58,6 +53,7 @@ Spatial
     Highlight notes with different colors
     Create indented outline notes
  
+logical
 Logical Learner
 Mathematical
   Learn best by clasifying and categorizing things
@@ -68,6 +64,7 @@ Mathematical
     Play math and strategy games for mind stimulation
     Create specific goals and plan timelines for projects
  
+interpersonal
 Interpersonal Learner
 Social
   Learns best by relating to others
@@ -79,6 +76,7 @@ Social
     Join a volunteer group
     Interview others for their perspectives
  
+intrapersonal
 Intrapersonal Learner
 Solitary
   Learns bes when working alone
