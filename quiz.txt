@@ -86,8 +86,8 @@ Q19: Which visual aids are most beneficial?
   5: Hierarchial diagrams
   
 Q20: Where is your focus during a lesson?
-  4: On objects and interactions
-  6: On statistics and facts
+  4: On relationships and interactions
+  6: On concrete facts and statistics
   
 Q21: Which helps you understand content the best?
   4: Hands-on projects
