@@ -6,6 +6,7 @@ Format
   
 Linguistic Learner
 Verbal, Read-Write
+Linguistic learners understand content best through linguistic skills like reading, writing, listening, and speaking.
   Learns best through linguistic skills like reading, writing, listening, or speaking.
   Process information through the use of language -- excellent memory for reading or lectures
   You understand a book best after writing a research paper on it
@@ -27,7 +28,7 @@ Naturalist
  
 Musical Learner
 Rhythmic, Auditory, Aural
-Learns best using melody and rhythm
+  Learns best using melody and rhythm
   Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping -- think chronologically -- strong language skills -- difficulaty deciphering graphs and interpersonal cues
   Drummers could hear a beat on the street and put it together in the studio
   Tips:
@@ -46,7 +47,8 @@ Kinesthetic, Bodily, Tactile
     Review notes while doing other physical activities
     Make graphs or art pieces to demosntrate information
  
-5-- Visual/Spatial
+Visual Learner
+Spatial
   Learns best with visual aids to guide the learning process
   You understand best by looking at diagrams, pictures, and graphs -- tend to enter technical or engineering fields -- right-brained learner -- struggle with arithmatic and numbers
   Learning programming by interacting with a UML diagram
@@ -56,7 +58,8 @@ Kinesthetic, Bodily, Tactile
     Highlight notes with different colors
     Create indented outline notes
  
-6-- Logical/Mathematical
+Logical Learner
+Mathematical
   Learn best by clasifying and categorizing things
   Understand relationships or patters, or numbers and equations best -- engineers, scientists, mathematicians -- decipher abstract visual information -- strategy focused
   Learn sciences like biology easily because it includes in-depth classifications
@@ -65,7 +68,8 @@ Kinesthetic, Bodily, Tactile
     Play math and strategy games for mind stimulation
     Create specific goals and plan timelines for projects
  
-7-- Interpersonal/Social
+Interpersonal Learner
+Social
   Learns best by relating to others
   Share stores, work best in teams, and compare ideas with the ideas of others -- good at reading the emotions of others and identifying communication problems
   You understand reading assignments through discussions
@@ -75,7 +79,8 @@ Kinesthetic, Bodily, Tactile
     Join a volunteer group
     Interview others for their perspectives
  
-8-- Intrapersonal/Solitary
+Intrapersonal Learner
+Solitary
   Learns bes when working alone
   Set individual goals and are internally motivated -- tend introverts -- fields without direction supervision -- stay in-tune with themselves and their capabilities -- enjoy teaching themselves
   When studying for a test, it must be quiet
