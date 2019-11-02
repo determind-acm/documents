@@ -17,26 +17,46 @@ Q2: Which technique helps you memorize information?
   1: Re-reading or re-writing notes
   3: Using mnemonic devices
 
-Q3:
-  1: 
-  4:
+Q3: How would you best understand how a pendulum works?
+  1: Read or hear about it
+  4: Put together a model of it yourself
   
-Q4:
-  1:
-  5:
+Q4: How would you best understand statistics?
+  1: Read and process the data internally
+  5: Model the data in a graph
 
-Q5:
-  1: 
-  6:
+Q5: What kind of test preparation is the most helpful?
+  1: Explaining the content to another person
+  6: Creating a study plan and categorizing content
   
-Q6:
-  1:
-  7:
+Q6: Which discussion environment is most beneficial?
+  1: Teaching others about what you understand
+  7: Hearing their perspectives and changing your ideas
   
-Q7:
-  1: 
-  8:
+Q7: Are online classes or lecture periods easier to learn from?
+  1: Lecture periods
+  8: Online classes
 
 Q8:
-  8:
+  2:
+  3:
+
+Q9:
+  2:
+  4:
+  
+Q10:
+  2:
+  5:
+  
+Q11:
+  2:
+  6:
+
+Q12:
+  2:
   7:
+  
+Q13:
+  2:
+  8:
