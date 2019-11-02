@@ -1,7 +1,7 @@
-DeterMind is a company based out of Oxford, Ohio, dedicated to individualizing the future of education and learning for all grade levels. With a variety of software developers and reasearchers on staff, we are able to take user information that's given to us through our comprehensive Learning Style Quiz in order to develop a personalized learning strategy and given tips for studying. Similar companies only focus on some of the eight learning styles, but DeterMind is dedicated to giving users the best analysis as possible.
+Determind is a company based out of Oxford, Ohio, dedicated to individualizing the future of education and learning for all grade levels. With a variety of software developers and reasearchers on staff, we are able to take user information that's given to us through our comprehensive Learning Style Quiz in order to develop a personalized learning strategy and given tips for studying. Similar companies only focus on some of the eight learning styles, but DeterMind is dedicated to giving users the best analysis as possible.
 According to the National Academy of Engineering, one of the biggest challenges that will be facing society in the future is developing the advancement of personalized learning. Our goal is to help all types of learners reach their maximum potential in order to succeed later in life and craft the abilities needed to work towards continued education -- within or outside their chosen field.
-Some of the sites used to research and craft our comprehensize quiz are included below for further understanding of the user's learning type:
 
+Some of the sites used to research and craft our comprehensize quiz are included below for further understanding of the user's learning type:
 At Your Fingertips: The 8 Types of Learning Styles
   SkillsYouNeed
   https://www.skillsyouneed.com/rhubarb/fingerprints-learning-styles.html
