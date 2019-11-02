@@ -1,1 +1,42 @@
+*****
+1=linguistic
+2=naturalist
+3=musical
+4=physical
+5=visual
+6=logical
+7=interpersonal
+8=intrapersonal
+*****
 
+Q1: Which study method helps you to better understand the content?
+  1: Reviewing lecture notes
+  2: Observing data in a natural setting
+
+Q2: Which technique helps you memorize information?
+  1: Re-reading or re-writing notes
+  3: Using mnemonic devices
+
+Q3:
+  1: 
+  4:
+  
+Q4:
+  1:
+  5:
+
+Q5:
+  1: 
+  6:
+  
+Q6:
+  1:
+  7:
+  
+Q7:
+  1: 
+  8:
+
+Q8:
+  8:
+  7:
