@@ -37,11 +37,11 @@ Q7: Are online classes or lecture periods easier to learn from?
   1: Lecture periods
   8: Online classes
 
-Q8: Which background noise is the easiest to study in?
-  2: Nature
+Q8: Which background noise is the least distracting?
+  2: The natural world
   3: Music
 
-Q9: Which experiments are most beneficial to understanding?
+Q9: Which experiments are most beneficial to your understanding?
   2: Observing and recording data
   4: Interacting with objects
   
