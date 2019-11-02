@@ -54,7 +54,7 @@ Q11: How do you classify content to best understand it?
   6: By relational categories
 
 Q12: When do you feel your understanding occurs most?
-  2: While in a natural setting
+  2: While in the woods
   7: While talking to others
   
 Q13: When do you interact most with content you're trying to learn?
