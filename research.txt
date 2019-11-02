@@ -1,10 +1,3 @@
-Format
-  Key
-  Title
-  Alternate Names
-  Description
-  Traits to look for
-  
 linguistic
 Linguistic Learner
 Verbal, Read-Write
@@ -20,15 +13,8 @@ Organizing notes on patterns; Simulating real-life situations; Observing and rec
 musical
 Musical Learner
 Rhythmic, Auditory, Aural
-Musical learners understand content best through the inclusion of melodies and rhythms to focus.
-  Learns best using melody and rhythm
-  Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping -- think chronologically -- strong language skills -- difficulaty deciphering graphs and interpersonal cues
-  Drummers could hear a beat on the street and put it together in the studio
-  Tips:
-    Participate in discussions and debates -- read aloud
-    Listen to music when studying content
-    Use mnemonic devices
-    Use background noise to your advantage -- study anywhere
+Musical learners understand content best through the inclusion of melodies and rhythms to focus. With this type of learner, music isn't a distraction, but actually aids in the learning process. This background noise could include humming, whistling, toe-tapping, or tapping a pencil on a desk as well. Evidently, these learners think chronologically, like the order of music. By using background noise to their advantage, there is an inherent ability to study nearly anywhere. These attributes result in several key traits.
+Strong language skills; Difficulty deciphering graphs; Difficulty deciphering interpersonal cues; Enjoys participating in discussions; Uses mnemonic devices; Listens to music when studying;
  
 physical
 Physical Learner
