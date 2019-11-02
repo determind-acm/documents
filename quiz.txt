@@ -83,7 +83,7 @@ Q18: How do you relax at the end of the day?
   
 Q19: Which visual aids are most beneficial?
   4: Pictures of each step in a process
-  5: Hierarchy diagrams
+  5: Hierarchial diagrams
   
 Q20: Where is your focus during a lesson?
   4: On objects and interactions
