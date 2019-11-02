@@ -51,7 +51,7 @@ Q10: How are your notes organized?
   
 Q11: How do you classify content to best understand it?
   2: By real-world examples
-  6: By relationship categories
+  6: By relational categories
 
 Q12: When do you feel your understanding occurs most?
   2: While in nature
