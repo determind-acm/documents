@@ -97,9 +97,9 @@ Q22: Where does motivation to understand content come from more?
   4: Accomplishment and innovation
   8: Individual goals
   
-Q23: What kind of game is the most stimulating?
-  5: Image recognition
-  6: Strategy
+Q23: Which game is the most stimulating?
+  5: Guess Who
+  6: Chess
   
 Q24: How would you go about double-checking your data?
   5: Looking up diagrams and graphs
