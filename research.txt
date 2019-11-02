@@ -3,17 +3,34 @@ Format
   Description
   Example
   Implementation
-  Criteria & questions
   
  Linguistic/Verbal/Read-Write
+  Learns best through linguistic skills like reading, writing, listening, or speaking.
+  You understand a book best after writing a research paper on it
+  Read about information, listen to an audio recording, and then take notes on it. Then it would be best to speak it to someone else to ensure understanding, or write about it extensively
  
  Naturalist/Naturalistic
+  Learns best through working with and experiencing nature or natural situations
+  Many scientists learn this way because experimentation is at the heart of of learning
+  You understand the mathematics behind chemistry after performing an experiment in a lab
+  Think of problems using real-world examples (word problems in math)
  
  Musical/Rhythmic/Auditory/Aural
+  Learns best using melody and rhythm
+  Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping
+  Drummers could hear a beat on the street and put it together in the studio
+  Study with background noise like music
  
  Kinesthetic/Physical/Bodily/Tactile
+  Learnes best by taking action
+  Similar to Naturalist Learners, interacting with objects helps to learn about them in the best possible way -- arts, manufacturing, or creative fields that require hands on experience
+  Woodworking must be learned by interactin directly with the wood and the project
  
  Visual/Spatial
+  Learns best with visual aids to guide the learning process
+  You understand best by looking at diagrams, pictures, and graphs -- tend to enter technical or engineering fields
+  Learning programming by interacting with a UML diagram
+  Look online for depictions of content and videos with chart or graphs included
  
  Logical/Mathematical
  
