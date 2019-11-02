@@ -1,7 +1,13 @@
 -----------BEAUTIFULSOUP DOCUMENTATION--------------------
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://code.tutsplus.com/tutorials/scraping-webpages-in-python-with-beautiful-soup-the-basics--cms-28211
+https://stackoverflow.com/questions/8936030/using-beautifulsoup-to-search-html-for-string
+
 
 ------------PSYCHOLOGY DOCUMENTATION--------------------
 https://www.skillsyouneed.com/rhubarb/fingerprints-learning-styles.html
-https://stackoverflow.com/questions/8936030/using-beautifulsoup-to-search-html-for-string
+https://visme.co/blog/8-learning-styles/
+http://tecweb.org/styles/gardner.html
+https://virtualspeech.com/blog/teaching-strategies-different-learning-styles
+https://www.udemy.com/course/eight-learning-styles/
+http://blog.kinshipparenting.com/?p=313
