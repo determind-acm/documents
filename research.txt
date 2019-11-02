@@ -1,10 +1,11 @@
 Format
-  Style
+  Title
+  Alternate Names
   Description
-  Example
-  Implementation
+  Traits to look for
   
-1-- Linguistic/Verbal/Read-Write
+Linguistic Learner
+Verbal, Read-Write
   Learns best through linguistic skills like reading, writing, listening, or speaking.
   Process information through the use of language -- excellent memory for reading or lectures
   You understand a book best after writing a research paper on it
@@ -13,7 +14,8 @@ Format
     Create a list of keywords to remember
     User acronyms
  
-2-- Naturalist/Naturalistic
+Naturalistic Learner
+Naturalist
   Learns best through working with and experiencing nature or natural situations
   Many scientists learn this way because experimentation is at the heart of of learning -- relating ideas to concepts in nature and enjoy rural settings to study and think
   You understand the mathematics behind chemistry after performing an experiment in a lab
@@ -23,8 +25,9 @@ Format
     Observe and record data as if it was a natural environment
     Include experiments and learnings
  
-3-- Musical/Rhythmic/Auditory/Aural
-  Learns best using melody and rhythm
+Musical Learner
+Rhythmic, Auditory, Aural
+Learns best using melody and rhythm
   Music isn't a distraction but actually aids in the learning process -- humming, whistling, toe-tapping -- think chronologically -- strong language skills -- difficulaty deciphering graphs and interpersonal cues
   Drummers could hear a beat on the street and put it together in the studio
   Tips:
@@ -33,7 +36,8 @@ Format
     Use mnemonic devices
     Use background noise to your advantage -- study anywhere
  
-4-- Kinesthetic/Physical/Bodily/Tactile
+Physical Learner
+Kinesthetic, Bodily, Tactile
   Learnes best by taking action
   Similar to Naturalist Learners, interacting with objects helps to learn about them in the best possible way -- arts, manufacturing, or creative fields that require hands on experience -- bodies involved in learning process -- manipulate what is being learned
   Woodworking must be learned by interactin directly with the wood and the project
