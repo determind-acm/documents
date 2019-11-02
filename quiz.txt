@@ -113,10 +113,10 @@ Q26: Is it easier to understand relationships, or to interact in relationships?
   6: Understand
   7: Interact
  
-Q27: 
-  6:
-  8:
+Q27: Would you prefer to have direct supervision or work on your own?
+  6: Direct supervision
+  8: Work on your own
   
-Q28:
-  7:
-  8:
+Q28: Do you prefer to work around people or by yourself?
+  7: With other people
+  8: By yourself
