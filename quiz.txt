@@ -37,26 +37,26 @@ Q7: Are online classes or lecture periods easier to learn from?
   1: Lecture periods
   8: Online classes
 
-Q8:
-  2:
-  3:
+Q8: Which background noise is the easiest to study in?
+  2: Nature
+  3: Music
 
-Q9:
-  2:
-  4:
+Q9: Which experiments are most beneficial to understanding?
+  2: Observing and recording data
+  4: Interacting with objects
   
-Q10:
-  2:
-  5:
+Q10: How would your notes be organized?
+  2: By pattern, with recorded data 
+  5: By structure, with indentation
   
-Q11:
-  2:
-  6:
+Q11: How do you classify content to best understand it?
+  2: By real-world examples
+  6: By relationship categories
 
-Q12:
-  2:
-  7:
+Q12: Where do you feel your understanding occurs most?
+  2: While in nature
+  7: While talking to others
   
-Q13:
-  2:
-  8:
+Q13: When do you interact most with content you're trying to learn?
+  2: When you're observing data in real-time
+  8: When you're studying alone
