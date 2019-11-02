@@ -106,7 +106,7 @@ Q24: How would you go about double-checking your data?
   7: Talking to other people
   
 Q25: What causes the most frustration when studying?
-  5: Math problems
+  5: Analytical problems
   8: Other people
   
 Q26: Is it easier to understand relationships, or to interact in relationships?
