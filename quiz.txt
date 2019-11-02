@@ -60,3 +60,63 @@ Q12: Where do you feel your understanding occurs most?
 Q13: When do you interact most with content you're trying to learn?
   2: When you're observing data in real-time
   8: When you're studying alone
+
+Q14: When fidgeting, what do you do?
+  3: Whistle and hum
+  4: Move your hands and manipulate utensils
+  
+Q15: Which technique helps to better visualize content?
+  3: Mnemonic devices
+  5: Highlighting notes
+  
+Q16: Do you enjoy your art classes or math classes more?
+  3: Art classes
+  6: Math classes
+  
+Q17: What kind of club would you most like to join?
+  3: Music or performance group
+  7: Volunteer organization
+  
+Q18: How do you relax at the end of the day?
+  3: Listen to music
+  8: Take time for self-reflection
+  
+Q19: Which visual aids are most beneficial?
+  4: Pictures of each step in a process
+  5: Graphs and diagrams
+  
+Q20: Where is your focus during a lesson?
+  4: On objects and interactions
+  6: On statistics and facts
+  
+Q21: Which helps you understand content the best?
+  4: Hands-on projects
+  7: Comparing ideas with others
+
+Q22: Where does motivation to understand content come from more?
+  4: Accomplishment and innovation
+  8: Individual goals
+  
+Q23: What kind of game is the most stimulating?
+  5: Image recognition
+  6: Strategy
+  
+Q24: How would you go about double-checking your data?
+  5: Looking up diagrams and graphs
+  7: Talking to other people
+  
+Q25: What causes the most frustration when studying?
+  5: Math problems
+  8: Other people
+  
+Q26: Is it easier to understand relationships, or to interact in relationships?
+  6: Understand
+  7: Interact
+ 
+Q27: 
+  6:
+  8:
+  
+Q28:
+  7:
+  8:
