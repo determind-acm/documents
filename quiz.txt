@@ -38,8 +38,8 @@ Q7: Are online classes or lecture periods easier to learn from?
   8: Online classes
 
 Q8: Which background noise is the least distracting?
-  2: The natural world
-  3: Music
+  2: Listening to rainfall
+  3: Listening to classical music
 
 Q9: Which experiments are most beneficial to your understanding?
   2: Observing and recording data
@@ -53,7 +53,7 @@ Q11: How do you classify content to best understand it?
   2: By real-world examples
   6: By relationship categories
 
-Q12: Where do you feel your understanding occurs most?
+Q12: When do you feel your understanding occurs most?
   2: While in nature
   7: While talking to others
   
